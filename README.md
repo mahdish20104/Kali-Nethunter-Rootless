@@ -4,8 +4,9 @@
 
 <h3> Requirements </h3>
 
-1. <B> File Manager : 
-2. Termux :
-3. Kali Linux ISO :
+1. <B> File Manager : https://play.google.com/store/apps/details?id=com.marc.files&gl=us
+2. Termux : https://play.google.com/store/apps/details?id=com.termux&gl=us
+3. Kali Linux ISO : 
 4. Seup.sh file : 
+5. Nethunter KeX :
 </b>
