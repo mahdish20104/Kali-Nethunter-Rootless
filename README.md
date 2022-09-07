@@ -2,7 +2,7 @@
 
 ![images__15_-removebg-preview](https://user-images.githubusercontent.com/112896690/188809375-a1f5bb0b-fe0b-46c0-9791-35c07bcf42d1.png)
 
-<h3> Requirements </h3>
+<h3> <font color="green"> Requirements </h3>
 
 1. <B> File Manager : https://play.google.com/store/apps/details?id=com.marc.files&gl=us
 2. Termux : https://f-droid.org/repo/com.termux_118.apk
@@ -27,3 +27,9 @@
 <br>
  
      Step 4: Then Copy Kali Linux.iso & setup.sh file copy to termux Directory
+<br>
+<br>
+     
+     
+     Step 5: then check those file to termux directory by typing "ls" in terminal
+     
