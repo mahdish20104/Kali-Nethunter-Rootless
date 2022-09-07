@@ -5,8 +5,8 @@
 <h3> Requirements </h3>
 
 1. <B> File Manager : https://play.google.com/store/apps/details?id=com.marc.files&gl=us
-2. Termux : https://play.google.com/store/apps/details?id=com.termux&gl=us
-3. Kali Linux ISO : 
-4. Seup.sh file : 
-5. Nethunter KeX :
+2. Termux : https://f-droid.org/repo/com.termux_118.apk
+3. Kali Linux ISO : https://kali.download/nethunter-images/kali-2022.3/nethunter-2022.3-zerolte-nougat-kalifs-full.zip
+4. Seup.sh file : https://github.com/HackTheShell/Kali-Nethunter-Rootless/blob/main/install-nethunter-termux
+5. Nethunter KeX : https://store.nethunter.com/repo/com.offsec.nethunter.kex_11407306.apk
 </b>
