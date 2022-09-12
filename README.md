@@ -33,3 +33,16 @@
      
      Step 5: then check those file to termux directory by typing "ls" in terminal
      
+<br>
+<br>
+
+     Step 6: Then Execute .sh File with below command
+<br>
+<br>
+
+     Step 7: Execute Command: chmod +x install-nethunter-termux
+<br>
+<br>
+     
+     Step 8: Start Kali Linux installation process : ./install-nethunter-termux
+   
