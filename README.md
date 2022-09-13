@@ -2,6 +2,9 @@
 
 ![images__15_-removebg-preview](https://user-images.githubusercontent.com/112896690/188809375-a1f5bb0b-fe0b-46c0-9791-35c07bcf42d1.png)
 
+<H3> 1. What is Kali Nethunter? </h3>
+ <P> Kali NetHunter is a free and open-source mobile penetration testing platform for Android devices, based on Kali Linux.[1] Kali NetHunter is available for un-rooted devices (NetHunter Rootless) </p>
+
 <h3> <font color="green"> Requirements </h3>
 
 1. <B> File Manager : https://play.google.com/store/apps/details?id=com.marc.files&gl=us
